@@ -31,7 +31,7 @@ org_settings:
 webhook_settings:
   activities_webhook:
       enable_activities_webhook: true
-      destination_url: webhook.site https://www.webhookurl.com
+      destination_url: webhook.site https://webhook.site
 
 
   server_settings:
