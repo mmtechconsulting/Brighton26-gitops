@@ -192,7 +192,7 @@ software:
     self_service: true
     categories:
       - Communication
-      setup_experience: true
+    setup_experience: true
     # macOS custom packages
     # …
 
