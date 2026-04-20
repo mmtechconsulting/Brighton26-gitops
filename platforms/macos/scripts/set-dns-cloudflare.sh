@@ -6,6 +6,7 @@
 set_dns() {
     local service=$1
     echo "Setting DNS for $service..."
+    
     # Set DNS servers to 1.1.1.1 and 1.0.0.1 (primary and secondary)
     sudo networksetup -setdnsservers "$service" 1.1.1.1 1.0.0.1
     
