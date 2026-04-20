@@ -15,7 +15,7 @@ org_settings:
   webhook_settings:
     activities_webhook:
       enable_activities_webhook: true
-      destination_url: webhook.site https://webhook.site
+      destination_url: webhook.site https://webhook.site/5212fbf3-5a8d-4483-a936-80b1f9a038cf
 
 
   fleet_desktop:
