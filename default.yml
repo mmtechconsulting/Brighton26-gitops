@@ -28,6 +28,11 @@ org_settings:
     ###########################################################
     org_name: MMTECH
 
+webhook_settings:
+  activities_webhook:
+      enable_activities_webhoot: true
+      destination_url: webhook.site https://www.webhookurl.com
+
   server_settings:
     ###########################################################
     # The server URL where Fleet is running.
