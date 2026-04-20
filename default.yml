@@ -30,8 +30,9 @@ org_settings:
 
 webhook_settings:
   activities_webhook:
-      enable_activities_webhoot: true
+      enable_activities_webhook: true
       destination_url: webhook.site https://www.webhookurl.com
+
 
   server_settings:
     ###########################################################
